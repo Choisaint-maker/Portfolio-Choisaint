@@ -18,7 +18,7 @@ Includes:
 - electronics and control diagrams  
 - mechanical components  
 - photos, videos, and final results  
-🔗 Repository: *(coming soon)*
+🔗 Repository: https://github.com/Choisaint-maker/ECOPLATES
 
 ---
 
