@@ -28,11 +28,11 @@ Includes:
 ### 🛰 Ultrasonic-Radar Rover  
 Four-wheel rover equipped with an ultrasonic scanning system.  
 Features a microcontroller, L293D motor driver, servo-mounted sensor, and a complete CAD model and reconstruction.  
-🔗 https://github.com/synkro/rover
+🔗 https://github.com/Synkro-Lab/RadarRobot
 
 ### ✈ Experimental Drone Platform  
 Prototype drone built for experimental flight tests, integrating IMU sensors, custom frame design, and embedded controllers.  
-🔗 https://github.com/synkro/dron
+🔗(https://github.com/Synkro-Lab/Autonomous-drone)
 
 ---
 
