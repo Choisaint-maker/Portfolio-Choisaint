@@ -34,6 +34,11 @@ Features a microcontroller, L293D motor driver, servo-mounted sensor, and a comp
 Prototype drone built for experimental flight tests, integrating IMU sensors, custom frame design, and embedded controllers.  
 🔗(https://github.com/Synkro-Lab/Autonomous-drone)
 
+### 
+**Synkro-Plane**  
+Experimental fixed-wing RC aircraft with FPV integration, developed as an educational platform for learning aerodynamics, flight control, low-cost electronics, and digital manufacturing (3D printing and foamboard). The project documents the full iterative process: design decisions, flight testing, failures, repairs, and improvements.
+🔗(https://github.com/Synkro-Lab/Synkro-Plane)
+
 ---
 
 ## 🛠 Technical Skills
