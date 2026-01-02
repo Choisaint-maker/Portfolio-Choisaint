@@ -35,7 +35,7 @@ Prototype drone built for experimental flight tests, integrating IMU sensors, cu
 🔗(https://github.com/Synkro-Lab/Autonomous-drone)
 
 ### ✈ Synkro-Plane  
-Experimental fixed-wing RC aircraft with FPV integration, developed as an educational platform for learning aerodynamics, flight control, low-cost electronics, and digital manufacturing (3D printing and foamboard). The project documents the full iterative process: design decisions, flight testing, failures, repairs, and improvements.
+Experimental fixed-wing RC aircraft with FPV integration, developed as an educational platform for learning aerodynamics, flight control, low-cost electronics, and digital manufacturing (3D printing and foamboard).
 🔗(https://github.com/Synkro-Lab/Synkro-Plane)
 
 ---
